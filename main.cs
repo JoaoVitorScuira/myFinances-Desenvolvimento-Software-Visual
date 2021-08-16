@@ -13,6 +13,7 @@ namespace myFinances
             DateTime data = new DateTime();
             data = DateTime.Now;
             Console.WriteLine (data);
+            Console.WriteLine ("Teste repositório");
         }   
     }
 }
