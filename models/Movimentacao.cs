@@ -1,5 +1,7 @@
 using System;
-class Movimentacao{
+using myFinances.Data;
+namespace myFinances.models{
+public class Movimentacao{
     public Movimentacao(){
         DateTime criadoEm = DateTime.Now;
     }
@@ -7,4 +9,5 @@ class Movimentacao{
     public string tipo {get;set;}
     public int data {get;set;}
     public DateTime criadoEm {get; set;}
+}
 }

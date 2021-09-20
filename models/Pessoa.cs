@@ -1,5 +1,12 @@
+using System.Collections.Generic;
+using System.Collections.Specialized;
 using System;
-class Pessoa{
+using myFinances.Data;
+
+namespace myFinances.models{
+
+
+public class Pessoa{
    public Pessoa (){ //construtor dessa classe
       DateTime criadoEm = DateTime.Now;
    }
@@ -9,4 +16,5 @@ class Pessoa{
    public string nick {get; set;}
    public string tipoUsuario {get;set;}
    public DateTime criadoEm {get; set;}
+}
 }

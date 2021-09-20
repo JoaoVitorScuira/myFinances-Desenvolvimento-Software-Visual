@@ -1,7 +1,10 @@
-using System;
+using myFinances.Data;
 
-class Despesa{
+namespace myFinances.models{
+
+public class Despesa{
     public Despesa(){
         
     }
+}
 }
