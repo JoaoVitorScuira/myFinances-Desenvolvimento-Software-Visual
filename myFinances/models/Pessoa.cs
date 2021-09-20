@@ -10,6 +10,7 @@ public class Pessoa{
    public Pessoa (){ //construtor dessa classe
       DateTime criadoEm = DateTime.Now;
    }
+   public int Id {get;set;}
    public int idade {get; set; }
    public string Cpf {get; set;}
    public string sexo {get; set;}

@@ -6,5 +6,6 @@ public class Despesa{
     public Despesa(){
         
     }
+    public int Id {get; set;}
 }
 }
