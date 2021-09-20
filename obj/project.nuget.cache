@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uX1jCLtF7FcDku+L3hM1qkqYCofR1wqSbfBwOFq4jSr1OgGVqHic7L6RGEFib3MYNnpAi1HvvSDt5n4A+WBoFw==",
+  "dgSpecHash": "2cON3evKpnL+Qmdz1xtdZ8/zZj+Fomj1CCUkU+6CpvCQnK9EwUEYscCY8jWn4i6QOQUnetXWYvQoS6cGCRflSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvscu\\Documents\\Aulas\\Desenvolvimento de Software Visual\\C#\\myFinances\\myFinances.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jvscu\\Documents\\Aulas\\Desenvolvimento de Software Visual\\Projeto Semestral\\myFinances\\myFinances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvscu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

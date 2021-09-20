@@ -11,3 +11,17 @@ C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\C#\myFinances\
 C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\C#\myFinances\obj\Debug\netcoreapp3.1\myFinances.dll
 C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\C#\myFinances\obj\Debug\netcoreapp3.1\myFinances.pdb
 C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\C#\myFinances\obj\Debug\netcoreapp3.1\myFinances.genruntimeconfig.cache
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\obj\Debug\netcoreapp3.1\myFinances.csproj.AssemblyReference.cache
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\obj\Debug\netcoreapp3.1\myFinances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\obj\Debug\netcoreapp3.1\myFinances.AssemblyInfoInputs.cache
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\obj\Debug\netcoreapp3.1\myFinances.AssemblyInfo.cs
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\obj\Debug\netcoreapp3.1\myFinances.csproj.CoreCompileInputs.cache
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\obj\Debug\netcoreapp3.1\myFinances.dll
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\obj\Debug\netcoreapp3.1\myFinances.pdb
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\bin\Debug\netcoreapp3.1\myFinances.exe
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\bin\Debug\netcoreapp3.1\myFinances.deps.json
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\bin\Debug\netcoreapp3.1\myFinances.runtimeconfig.json
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\bin\Debug\netcoreapp3.1\myFinances.runtimeconfig.dev.json
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\bin\Debug\netcoreapp3.1\myFinances.dll
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\bin\Debug\netcoreapp3.1\myFinances.pdb
+C:\Users\jvscu\Documents\Aulas\Desenvolvimento de Software Visual\Projeto Semestral\myFinances\obj\Debug\netcoreapp3.1\myFinances.genruntimeconfig.cache
